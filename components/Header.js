@@ -17,6 +17,7 @@ export const Header = ({guitarra}) => {
                                     src="/img/logo.svg"
                                     width={400}
                                     height={100}
+                                    alt='logo'
                                 />
                             </a>
                         </Link>
