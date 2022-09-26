@@ -20,6 +20,7 @@ export default function Home({guitarras,curso, entradas})
         <section className="contenedor">
           <ListadoBlog result={entradas} />
         </section>
+        
       </Layout>
   )
 }

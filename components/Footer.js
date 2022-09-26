@@ -13,6 +13,7 @@ export const Footer = () => {
                 </nav>
                 <p className={styles.copyright}>&copy; Todos los derechos reservados</p>
             </div>  
+            
         </footer>
     )
 }
